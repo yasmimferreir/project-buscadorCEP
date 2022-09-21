@@ -6,6 +6,8 @@
   <br>📄 Explicação
 
 <h3>Projeto desenvolvido no intuito de fins acadêmicos, práticas para domínio de consumir API dentro do ReactjS, manipulação de renderização de tela, utilização da API axios, Hook useState, gerenciador de pacotes Yarn, npm. Consiste em uma interface simples, aonde pode pesquisar o CEP desejado, renderizando na tela o CEP, cidade, bairro, complemento.
+  
+  🚀 deploy: https://vocal-centaur-d0806b.netlify.app/
 
 
 <br><h1>📁 Páginas
@@ -24,7 +26,7 @@
 <br><h3>Linguagem JavaScript
 <br><h3>Yarn
 <br><h3>NPM
-<br><h3>API => axios
+<br><h3>API axios
 <br><h3>Html
 <br><h3>Css
 
