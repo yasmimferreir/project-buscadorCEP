@@ -1,8 +1,6 @@
 <h1> 🔍Projeto Buscador CEP - biblioteca ReactJs
 
 
-
-  
   <br>📄 Explicação
 
 <h3>Projeto desenvolvido no intuito de fins acadêmicos, práticas para domínio de consumir API dentro do ReactjS, manipulação de renderização de tela, utilização da API axios, Hook useState, gerenciador de pacotes Yarn, npm. Consiste em uma interface simples, aonde pode pesquisar o CEP desejado, renderizando na tela o CEP, cidade, bairro, complemento.
